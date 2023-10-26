@@ -1,10 +1,6 @@
 ---
 # Display name
-title: Nachiketh
-
-# Full name (for SEO)
-first_name: Nachiketh
-last_name: Karthik
+title: Nachiketh Karthik
 
 # Status emoji
 status:
